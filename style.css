@@ -1,0 +1,12 @@
+body {
+    background-image: url("images/background.jpg");
+}
+
+div {
+    text-align: center;
+}
+
+select{
+    font-size: 1.25em;
+}
+
